@@ -14,3 +14,7 @@ Out of all the algorithms implemented in this project I find that BERT model can
 
 - Compare and validate the classifiers to identify the best classifier.
 
+# Movie Correlation
+
+Found the correlation between all the movies data features with gross earnings feature using python and found votes and budget feature are highly correlated
+
