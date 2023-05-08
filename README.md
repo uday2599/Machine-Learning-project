@@ -5,6 +5,7 @@ All of the classifiers produced adequate results for all of the personality type
 Out of all the algorithms implemented in this project we find that BERT model can understand the relevance and meaning of each word, whereas the other proposed models try to decrease error and fit the data without understanding the language, making BERT our best model for this project.
 
 Objectives
+
 Perform data pre-processing and exploratory data analysis
 
 Design and Implement classification model to predict the personality type.
